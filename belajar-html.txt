@@ -1,0 +1,72 @@
+html atau hypertext markup language merupakan bahasa markah untuk membuat halaman web (src wikipedia)
+menurutku html adalah sebuah bahasa yang menggunakan markup atau penanda untuk membuat halaman website
+
+analogi
+html > tulang / skeleton
+css > mempercantik , skin, mata, hidung dll
+js > interaktif dan dinamis membuat pop up (otaknya)
+
+struktur html
+1. doctype > beri tahu user jika dokumen html 5 . tag mendejklarasikan bahwa kodingan dibawh ini adalah doukumen atau bentuknya adalah html/ (deklarasi html)
+2. tag html > lang = language = en  pembungkus dokumen html
+3. tag head > digunakan untuk penempatan meta = SEO (search engine optimizen ) meta berfungsi untuk pencarian digoogle tujuannya agar web kita muncul paling atas
+meta berfungsi untuk pencarian di google
+3.1 tag meta > SEO
+3.2 tag title > judul halaman web
+4. tag body > isi dari website. isi yang akan tampil di borwser
+
+kalo gak ikut strukturnya maka melanggar aturan w3c
+
+aturan penamaan file projek
+1. ada extensi .html
+2. tanpa spasi maka auto diberi %20 = tanpa spasi
+3.jangan alay dalam penamaan, sesuaikan dengan porsi
+
+kenapa index.html?
+karena file pertama kali yang akan dijalankan browser adalah index.
+
+
+=================
+Tag,elemen,atribut
+
+tag merupakan sebah penanda awalan dan akhiran dari sebuah elemen html.
+tag dibuat dengan kurung siku (<p>ini paragraf </p>)
+lalu didalamnya berisi nama tag dan kadang juga ditambahkan dengan atribut
+ada tag yang berpasangan maupun tidak seperti img gak punya tag penutup
+
+elemen merupakan sebuah komponen yang menyusun dokumen html
+ex : <p align = "center" >hello dayat </p>
+
+atribut merupakan kata khusus yang berada di dalam tag pembuka. atribut juga disebut
+sebagai modifier yang akan menentukan perilaku dari elemen
+
+=======================
+heading,paragraf,link
+
+heading merupakan elemen html yang digunakan untuk judul
+h1 - h6
+h1 untuk judul utama
+h2,h3 untuk sub judul
+
+paragraf merupakan elemen html diguanakan untuk membuat paragraf
+
+
+link merupakan
+mengakses file projek di dalam folder diawali dengan menuliskan nama folder nya 
+ex : projek/index.html
+
+mengakses file ke luar 
+ex ../namaprojek
+jika ada dua folder maka ../../namaprojek dan seterusnya.
+
+jika ingin mengakses website yang telah ada misal google , facebook dsb maka aturannya didepan tambahkan
+https://google.com
+jika link diklik dan ingin membuat new tab maka tambahkan atribut target dengan value _blank
+
+link ini tipe / displaynya inline = tidak membuat baris baru melainkan sesauai dengan isi kontentnya
+
+display ada 4
+block = membuat baris baru / ukuran tidak sesuai dengan isi kontent
+inline =  tidak membuat baris baru / ukuran sesuai dengan isi kontennya
+flex = bisa row maupun colom
+hidden = sembunyi

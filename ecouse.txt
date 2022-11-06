@@ -1,0 +1,17 @@
+html > bahasa markah membuat web
+css > membuat tampilan web bagus
+js > membuat web jadi dinamis dan interaktif
+
+analogi
+html > tulang
+css > baju,kulit, mata dsb
+js > otak, pikirannya
+
+file index akan dijalankan pertama kali oleh web
+
+meta > SEO
+
+pertemuan 2
+Tag > penanda awalan akhiran pada sebuah elemen html </>
+elemen > sebuah komponen yang menyusun dokumen html
+atribut > kata khusus berada dalam tag pembuka

@@ -1,0 +1,10 @@
+yang harus dipelajari di html
+html > bahasa standar bahasa markup untuk membuat web pages
+/kerangka dari website
+
+1.text > h1-h6 (ditulis pd bagian judul), paragraf <p>
+2.link <a href = "https://google.com">ini link <a/>
+3.media > gambar,audio,video
+4.Tables
+5.list
+6.form > input pendataan

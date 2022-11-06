@@ -1,0 +1,12 @@
+text heading dan link
+a = display inline
+p,h2, = block
+
+
+====
+list,table
+
+elemtn list ada 3 :
+order list = ist yang terurut
+unorder list = list yang tak terurut
+description list = list yang berisi defini
